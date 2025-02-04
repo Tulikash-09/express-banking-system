@@ -138,15 +138,6 @@ In today’s digital age, managing banking operations manually can be time-consu
 
 ---
 
-## Future Enhancements
-- Implement user authentication and authorization.
-- Add support for account deletion and updates.
-- Integrate a database (e.g., MongoDB, MySQL) for persistent storage.
-- Add logging and monitoring for better system management.
-- Implement additional features like interest calculation, loan management, etc.
-
----
-
 ## License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
 
